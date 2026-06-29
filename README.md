@@ -1,16 +1,23 @@
-# Olá, sou o Rafael Gonçalves 👋
+# Rafael Gonçalves
 
-Estudante de Engenharia de IA na FIAP.
-Desenvolvo automações em Python para pequenas empresas e MEIs.
+Estudante de Inteligência Artificial na FIAP. Construo soluções de
+Machine Learning de ponta a ponta — da coleta de dados ao modelo avaliado.
 
-## O que eu faço:
-- 🤖 Bots para WhatsApp
-- 📊 Automação de planilhas Excel
-- 📧 Disparo automático de e-mails
-- 🔍 Raspagem de dados e relatórios automáticos
+🎯 Buscando estágio em Dados & IA / Machine Learning a partir do 2º semestre de 2026.
 
-## Tecnologias:
-Python | AWS | SQL | Machine Learning (em formação)
+## Projetos em destaque
 
-## Contato:
-📩 rafa120207@gmail.com
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [Sentinela](LINK) | Previsão de eventos climáticos extremos (INMET, Porto Alegre 2014–2025). Random Forest + MLP, do sensor ESP32 ao modelo avaliado. | Python · Scikit-learn · Keras · ESP32 |
+| [Sompo Predict](LINK) | Score de risco para seguro agrícola: EDA, tratamento de desbalanceamento e data leakage, validação cruzada. Challenge FIAP × SOMPO. | Python · Scikit-learn · Keras · SHAP |
+
+## Stack
+**Dados & ML:** Python · Pandas · Scikit-learn · Keras/TensorFlow · SHAP · SQL
+**Ferramentas:** Git · Jupyter · Scrum/Trello
+
+## Contato
+📩 rafa120207@gmail.com · [LinkedIn](LINK)
+
+---
+*Também desenvolvo automações em Python — veja os demais repositórios.*
