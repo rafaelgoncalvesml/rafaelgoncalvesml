@@ -20,4 +20,4 @@ Machine Learning de ponta a ponta — da coleta de dados ao modelo avaliado.
 📩 rafa120207@gmail.com · [LinkedIn](LINK)
 
 ---
-*Também desenvolvo automações em Python — veja os demais repositórios.*
+
